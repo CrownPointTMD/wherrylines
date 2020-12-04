@@ -1,3 +1,5 @@
+-- This is my old soft shutdown system, I've scripted another one that I will keep private.
+
 local TeleportService = game:GetService("TeleportService")
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
